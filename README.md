@@ -1,4 +1,6 @@
 # Unifi Data Scraper
+
+### Description
 This is a project written in Python that collects data about the Unifi Access Points (APs) connected to an internal network and data about the clients that are currently using the Unifi Access points. This program also determines if the network is online or if one of the APs appears to be malfunctioning.
 
 ### Explanation & Use
