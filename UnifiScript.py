@@ -976,11 +976,11 @@ def getNetworkInfo(twilio_body, network_issue, issue_count):
 
 # function that gets AnyDesk information
 def getAnyDeskInfo():
-    # the id for our AnyDesk account
-    anydesk_id = '261 792 082'
+    # the id for  AnyDesk account
+    anydesk_id = 'ANYDESK_ACCOUNT_ID'
 
     # the password for our AnyDesk account
-    anydesk_password = '6$gXoPs!(bV'
+    anydesk_password = 'ANYDESK_ACCOUNT_PASSWORD'
 
     return 'Remote Access Info:\nAnyDesk ID: ' + anydesk_id + '\nAnyDesk Password: ' + anydesk_password
 # end of function "getAnyDeskInfo()"
